@@ -20,7 +20,7 @@
     <session id="-799677606">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="3" />
@@ -96,7 +96,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="29" />
+    <option name="x" value="27" />
+    <option name="y" value="23" />
     <option name="width" value="1492" />
     <option name="height" value="913" />
   </component>
@@ -119,11 +120,6 @@
               <item name="java-programs" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-programs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-programs" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms-1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -184,16 +180,15 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="29" width="1492" height="913" extended-state="0" />
-    <editor active="true" />
+    <frame x="27" y="23" width="1492" height="913" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21581769" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21581769" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5942529" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.62413794" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
